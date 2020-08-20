@@ -33,7 +33,7 @@
       "sizes": "152x152"
     },
     {
-      "src": "/img/icons/Icon-192.png",
+      "src": "/img/icons/icon-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
@@ -43,7 +43,7 @@
       "sizes": "384x384"
     },
     {
-      "src": "/img/icons/Icon-512.png",
+      "src": "/img/icons/icon-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
